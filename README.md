@@ -1,7 +1,9 @@
 # Rocky-Linux-Server-DNS-DHCP-Email-Web-FTP-Setup
 🚀 A comprehensive step-by-step guide for setting up a server in Rocky Linux, including the installation and configuration of DNS, DHCP, Email, Web Server (Apache), FTP, and SSL/TLS encryption. This project covers essential networking services and security implementations for a robust and secure server infrastructure.
 
-You can download the Linux Virtual Machine from the link above🔗
+🔗You can download the Linux Virtual Machine from the link below:🔗
+
+https://cloudmails-my.sharepoint.com/my?id=%2Fpersonal%2Ftp075316%5Fmail%5Fapu%5Fedu%5Fmy%2FDocuments%2FRocky%20Linux%20Server&ga=1
 
 
 This Project Covers
